@@ -9,5 +9,3 @@ src/
 src/*.log 
 # src 폴더 및 안쪽 폴더에 있는 .log 파일만 제외
 src/**/*.log
-# assets 폴더는 제외
-assets/
