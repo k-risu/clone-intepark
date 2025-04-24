@@ -1,7 +1,7 @@
 # 인터파크 스터디 클론 코딩
 
 - 원사이트 https://nol.interpark.com/
-- 배포주소
+- 배포주소 https://clone-intepark-delta.vercel.app/
 
 ## 메인사이트
 
